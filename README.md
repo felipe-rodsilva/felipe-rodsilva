@@ -1,4 +1,4 @@
-## Olá, eu me chamo Felipe, estudante de ADS nos primeiros passos na programação! 😃
+## Hi! My name is Felipe, welcome to my profile! 😃
 <div align="center">
   <a href="https://github.com/felipe-rodsilva">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=felipe-rodsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
