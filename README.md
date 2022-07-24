@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/felipe-rodsilva">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=felipe-rodsilva&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-rodsilva&layout=compact&langs_count=7&theme=gruvbox_light"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=felipe-rodsilva&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-rodsilva&layout=compact&langs_count=7&theme=blue-green"/>
 </div> 
 
 ## Languages and Tools I'm currently learning:
