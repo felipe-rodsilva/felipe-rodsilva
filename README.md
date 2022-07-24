@@ -13,6 +13,7 @@
 
 ## Languages and Tools I'm currently learning:
 <div style="display: inline_block">
+ <a href="https://github.com/felipe-rodsilva">
    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="30" /> 
    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="30"/> 
    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="30"/> 
