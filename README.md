@@ -1,4 +1,4 @@
-<h1> Hey 👋 What's up!? I am <a href="https://github.com/felipe-rodsilva">Felipe</a> </h1>
+<h1> Hey 👋 What's up!? I am Felipe </h1>
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas
 
