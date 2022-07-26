@@ -1,6 +1,6 @@
 <h1> Hey 👋 What's up!? I am Felipe </h1>
 
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas
+- 📚 Graduando em Análise e Desenvolvimento de Sistemas
 
 - 💡 Curioso, adaptável e determinado!
 
