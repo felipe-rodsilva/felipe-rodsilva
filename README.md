@@ -34,6 +34,8 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/felipe-rodsilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:felipeweb2309@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<br>
+<br>
 
  ![mario-pixel-art](https://user-images.githubusercontent.com/105990622/180962944-4eab68d8-783d-4314-8cd8-f9e8ad95ff11.gif)
   
