@@ -18,7 +18,7 @@
 
 <br>
 
-## Languages and Tools I'm currently learning:
+## Languages and Tools:
 <div style="display: inline_block">
  <a href="https://github.com/felipe-rodsilva">
    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="30" /> 
