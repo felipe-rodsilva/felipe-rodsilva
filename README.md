@@ -1,12 +1,10 @@
 <h1> Hey 👋 What's up!? I am Felipe </h1>
 
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas 
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas.
 
-- 💡 Curioso, resiliente e determinado!
+- 👨‍💻 Atualmente estou aprendendo Desenvolvimento Web Front-End.
 
-- 👨‍💻 Atualmente estou aprendendo Desenvolvimento Web Front-End
-
-- 🎯 Objetivos: construir minha carreira em tecnologia, fluência em inglês e viajar o mundo
+- 🎯 Objetivos: construir minha carreira em tecnologia, fluência em inglês e viajar o mundo.
 
 - 📧 How to reach me: felipeweb2309@gmail.com
 
