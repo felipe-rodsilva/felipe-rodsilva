@@ -4,8 +4,6 @@
 
 - 👨‍💻 Atualmente estou aprendendo Desenvolvimento Web Front-End.
 
-- 🎯 Objetivos: construir minha carreira em tecnologia, fluência em inglês e viajar o mundo.
-
 - 📧 How to reach me: felipeweb2309@gmail.com
 
 <br>
